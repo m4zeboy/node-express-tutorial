@@ -20,6 +20,7 @@
   "homepage": "https://github.com/m4zeboy/node-express-tutorial#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "shortid": "^2.2.16"
   }
 }
